@@ -1,16 +1,22 @@
-# flutter_def
+# 📱 Flutter Info Screen App
 
-A new Flutter project.
+A simple Flutter screen that displays an introductory information page explaining what Flutter is.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- Clean and simple UI
+- Flutter introduction text
+- Responsive layout
+- Lightweight and beginner-friendly
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshot
+
+
+![Screenshot 1](![flutter_definition](https://github.com/user-attachments/assets/aa73f89e-be37-45fc-998b-9107bce5fa58)
+)
+
+---
