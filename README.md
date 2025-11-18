@@ -1,4 +1,4 @@
-![flutter_definition](https://github.com/user-attachments/assets/4de75dc2-9bd7-4e99-bb43-d8f1805d397c)# 📱 Flutter Info Screen App
+# 📱 Flutter Info Screen App
 
 A simple Flutter screen that displays an introductory information page explaining what Flutter is.
 
