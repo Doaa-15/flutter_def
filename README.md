@@ -1,4 +1,4 @@
-# 📱 Flutter Info Screen App
+![flutter_definition](https://github.com/user-attachments/assets/4de75dc2-9bd7-4e99-bb43-d8f1805d397c)# 📱 Flutter Info Screen App
 
 A simple Flutter screen that displays an introductory information page explaining what Flutter is.
 
@@ -16,7 +16,6 @@ A simple Flutter screen that displays an introductory information page explainin
 ## 📸 Screenshot
 
 
-![Screenshot 1](![flutter_definition](https://github.com/user-attachments/assets/aa73f89e-be37-45fc-998b-9107bce5fa58)
-)
-
+![![flutter_definition](https://github.com/user-attachments/assets/3a6be27a-e46e-4499-b4b7-84662e758ac2)
+]
 ---
