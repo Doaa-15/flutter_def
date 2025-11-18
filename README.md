@@ -5,14 +5,6 @@ A simple Flutter screen that displays an introductory information page explainin
 
 ---
 
-## ✨ Features
-- Clean and simple UI
-- Flutter introduction text
-- Responsive layout
-- Lightweight and beginner-friendly
-
----
-
 ## 📸 Screenshot
 
 
